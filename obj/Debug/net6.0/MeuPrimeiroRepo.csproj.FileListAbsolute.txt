@@ -1,0 +1,15 @@
+C:\git\MeuPrimeiroRepo\bin\Debug\net6.0\MeuPrimeiroRepo.exe
+C:\git\MeuPrimeiroRepo\bin\Debug\net6.0\MeuPrimeiroRepo.deps.json
+C:\git\MeuPrimeiroRepo\bin\Debug\net6.0\MeuPrimeiroRepo.runtimeconfig.json
+C:\git\MeuPrimeiroRepo\bin\Debug\net6.0\MeuPrimeiroRepo.dll
+C:\git\MeuPrimeiroRepo\bin\Debug\net6.0\ref\MeuPrimeiroRepo.dll
+C:\git\MeuPrimeiroRepo\bin\Debug\net6.0\MeuPrimeiroRepo.pdb
+C:\git\MeuPrimeiroRepo\obj\Debug\net6.0\MeuPrimeiroRepo.csproj.AssemblyReference.cache
+C:\git\MeuPrimeiroRepo\obj\Debug\net6.0\MeuPrimeiroRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\MeuPrimeiroRepo\obj\Debug\net6.0\MeuPrimeiroRepo.AssemblyInfoInputs.cache
+C:\git\MeuPrimeiroRepo\obj\Debug\net6.0\MeuPrimeiroRepo.AssemblyInfo.cs
+C:\git\MeuPrimeiroRepo\obj\Debug\net6.0\MeuPrimeiroRepo.csproj.CoreCompileInputs.cache
+C:\git\MeuPrimeiroRepo\obj\Debug\net6.0\MeuPrimeiroRepo.dll
+C:\git\MeuPrimeiroRepo\obj\Debug\net6.0\ref\MeuPrimeiroRepo.dll
+C:\git\MeuPrimeiroRepo\obj\Debug\net6.0\MeuPrimeiroRepo.pdb
+C:\git\MeuPrimeiroRepo\obj\Debug\net6.0\MeuPrimeiroRepo.genruntimeconfig.cache
